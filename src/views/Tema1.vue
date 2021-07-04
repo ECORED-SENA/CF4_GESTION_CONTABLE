@@ -447,10 +447,152 @@
     .h3.mb-4 Impuesto al consumo
     p.mb-5 El Artículo 512-1 del Estatuto Tributario (ET), señala que el impuesto nacional al consumo tiene como hecho generador la prestación o la venta al consumidor final o la importación por parte del consumidor final, de los siguientes servicios y bienes:
 
+    .row.justify-content-center.mb-4
+      .col-lg-3
+        figure.mb-2
+          img(src='@/assets/curso/tema1/img18.svg', alt='Imagen que acompaña impuesto al consumo', style="width:295px;")
+      .col-lg-7.align-self-center
+        .row
+          .col-auto
+            span.bigNumber 1
+          .col
+            p.mb-0 La prestación de los servicios de telefonía móvil, internet y navegación móvil, y servicio de datos según lo dispuesto en el artículo 512-2 de este Estatuto.
+    .row.justify-content-center.mb-4
+      .col-lg-3
+        figure.mb-2
+          img(src='@/assets/curso/tema1/img19.svg', alt='Imagen que acompaña impuesto al consumo', style="width:295px;")
+      .col-lg-7.align-self-center
+        .row
+          .col-auto
+            span.bigNumber 2
+          .col
+            p.mb-0 Las ventas de algunos bienes corporales muebles, de producción doméstica o importados, según lo dispuesto en los artículos 512-3, 512-4 y 512-5 de este Estatuto. El impuesto al consumo no se aplicará a las ventas de los bienes mencionados en los artículos 512-3 y 512-4 si son activos fijos para el vendedor, salvo de que se trate de los automotores y demás activos fijos que se vendan a nombre y por cuenta de terceros y para los aerodinos.
+    .row.justify-content-center.mb-5
+      .col-lg-3
+        figure.mb-2
+          img(src='@/assets/curso/tema1/img20.svg', alt='Imagen que acompaña impuesto al consumo', style="width:295px;")
+      .col-lg-7.align-self-center
+        .row
+          .col-auto
+            span.bigNumber 3
+          .col
+            p.mb-0 El servicio de expendio de comidas y bebidas preparadas en restaurantes, cafeterías, autoservicios, heladerías, fruterías, pastelerías y panaderías para consumo en el lugar, para ser llevadas por el comprador o entregadas a domicilio, los servicios de alimentación bajo contrato, incluyendo el servicio de catering, y el servicio de expendio de comidas y bebidas alcohólicas para consumo dentro de bares, tabernas y discotecas; (sic) según lo dispuesto en los artículos 426, 512-8, 512-9, 512-10, 512-11, 512- 12 y 512-13 de este estatuto. Este impuesto no es aplicable a las actividades de expendio de bebidas y comidas bajo franquicias.
+
+    p.mb-5.etiqueta Para profundizar en esta temática indague en el Estatuto Tributario (ET) artículos del 512-1 al 512-22.
+
+    .row.tarjeta--grey.mb-5
+      .col-lg-12
+        .row.justify-content-center.mb-0
+          .col-lg-12.p-5
+            .h3.mb-4 Impuesto unificado bajo el régimen simple de tributación
+            p.mb-4 Este impuesto fue creado mediante la Ley 1943 de 2018 y ratificado en la Ley 2010 de 2019.
+            p.mb-4 El artículo 903 del Estatuto Tributario (ET) expresa “es un modelo de tributación opcional de determinación integral, de declaración anual y anticipo bimestral, que integra el impuesto sobre la renta, el impuesto nacional al consumo y el impuesto de industria y comercio consolidado, a cargo de los contribuyentes que opten voluntariamente por acogerse al mismo”.
+        
+        .row.justify-content-center.mb-5
+          .col-lg-7.px-5
+            .h3.mb-4
+              b.span--acento2 ARTÍCULO 904- Estatuto Tributario (ET). Hecho generador y base gravable del impuesto unificado bajo el régimen simple de tributación (simple).
+            p.mb-4 El hecho generador del impuesto unificado bajo el régimen simple de tributación (SIMPLE) es la obtención de ingresos susceptibles de producir un incremento en el patrimonio, y su base gravable está integrada por la totalidad de los ingresos brutos, ordinarios y extraordinarios, percibidos en el respectivo periodo gravable.
+            p.mb-4 Para el caso del impuesto de industria y comercio consolidado, el cual se integra al impuesto unificado bajo el régimen simple de tributación (SIMPLE), se mantienen la autonomía de los entes territoriales para la definición de los elementos del hecho generador, base gravable, tarifa y sujetos pasivos, de conformidad con las leyes vigentes.
+            .cajon.color-secundario.p-4.mb-4 
+              p.mb-0 #[strong PARÁGRAFO.] Los ingresos constitutivos de ganancia ocasional no integran la base gravable del impuesto unificado bajo el régimen simple de tributación (SIMPLE). Tampoco integran la base gravable los ingresos no constitutivos de renta ni ganancia ocasional. Recuerde explorar el Estatuto Tributario (ET) en el Libro octavo, Art. 903 al 916, para ampliar sus conocimientos.
+          .col-lg-5.align-self-center
+            figure.mb-2
+              img(src='@/assets/curso/tema1/img21.svg', alt='Imagen que acompaña impuesto al consumo', style="width:505px;").mx-auto
+
+
+    .h3.mb-4 Impuestos departamentales
+    p.mb-5 Son impuestos creados en la jurisdicción departamental, mediante ordenanzas para financiar el presupuesto del departamento; por lo tanto, tiene su propia normativa.
+    
+    AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--f6f6f6")
+      .row.justify-content-center(titulo="1. Impuesto a la venta y consumo de licores")
+        .col-md-7.mb-4.mb-md-0
+          p.mb-4 Este impuesto lo constituye el consumo en el territorio nacional de cervezas, sifones, refajos y mezclas de bebidas fermentadas con bebidas no alcohólicas.
+          p.mb-4 No generan este impuesto las exportaciones y el tránsito por el territorio del Distrito Capital, de cervezas, sifones, refajos, y mezclas de bebidas fermentadas con bebidas no alcohólicas.
+          .cajon.color-primario.p-4.mb-4
+            p.mb-0 Son responsables del impuesto los productores, los importadores, y solidariamente con ellos, los distribuidores. Además, son responsables directos del impuesto los transportadores y los expendedores al detal, cuando no puedan justificar debidamente la procedencia de los productos que transportan o expenden.
+        .col-md-4
+          figure
+            img(src='@/assets/curso/tema1/img22.svg', alt='', style="width:340px;").mx-auto
+      
+      .row.justify-content-center(titulo="2. Impuesto a las cervezas, cigarrillos y tabacos")
+        .col-md-7.mb-4.mb-md-0
+          p.mb-4 El impuesto es aplicable al consumo de cigarrillos y tabaco elaborado, de procedencia extranjera, en la jurisdicción del Distrito Capital. Se encuentra excluido del impuesto al consumo de tabaco el chicote de tabaco de producción artesanal.
+          p.mb-4 Son responsables del impuesto los importadores y, solidariamente con ellos, los distribuidores. Además, son responsables directos los transportadores y expendedores al detal, cuando no pueden justificar debidamente la procedencia de los productos que transportan o expenden.
+        .col-md-4
+          figure
+            img(src='@/assets/curso/tema1/img23.svg', alt='Impuesto a las cervezas, cigarrillos y tabacos', style="width:340px;").mx-auto
+      
+      .row.justify-content-center(titulo="3. Loterías foráneas")
+        .col-md-7.mb-4.mb-md-0.px-4
+          p.mb-4 Este impuesto se aplica a los premios de las loterías y se conoce como el impuesto a ganadores, aunado a ello, recae sobre las empresas de lotería y operadores autorizadas. 
+          p.mb-4 La venta de lotería foráneas en jurisdicción del Distrito Capital genera a su favor y, a cargo de las empresas de lotería u operadores autorizados, un impuesto del diez por ciento (10%) sobre el valor nominal de cada billete o fracción. 
+          .cajon.color-secundario.p-4.mb-4
+            p.mb-0 Los ganadores de premios de lotería pagarán al Distrito Capital, según el caso, un impuesto del diecisiete por ciento (17%) sobre el valor nominal del premio, valor que será retenido por la lotería responsable u operador autorizado al momento de pagar el premio (Secretaría Distrital de Hacienda, 2020, 28 de octubre).
+        .col-md-4
+          figure
+            img(src='@/assets/curso/tema1/img24.svg', alt='Loterías foráneas', style="width:340px;").mx-auto
+
+
+    .h3.mb-4 Impuestos Municipales
+    p.mb-5 Estos impuestos son recaudados por el municipio. Son instituidos por el concejo distrital o municipal, mediante acuerdos.
+
+
+    .row.justify-content-center
+      .col-lg-10
+        LineaTiempoD.color-secundario
+          .row(numero="1" titulo="Impuesto de Industria y Comercio")
+            .col-md-12.mb-4.mb-md-0
+              p.mb-4.text-medium El impuesto de Industria y Comercio se genera por el ejercicio o realización directa o indirecta de cualquier actividad industrial, comercial o de servicios en jurisdicción del Distrito Capital de Bogotá, ya sea que se cumplan de forma permanente u ocasional, en inmueble determinado, con establecimiento de comercio o sin ellos.
+              p.mb-4.text-medium #[strong Sujeto activo:] es un impuesto administrado por el municipio o distrito.
+              p.mb-4.text-medium #[strong Sujeto pasivo:] personas naturales y jurídicas, que cumplan los requisitos establecidos para generar el impuesto.
+              p.mb-4.text-medium #[strong Hecho generador:] el hecho generador del impuesto de industria y comercio está constituido por el ejercicio o realización directa o indirecta de cualquier actividad industrial, comercial o de servicios en la jurisdicción del Distrito Capital de Bogotá, ya sea que se cumplan de forma permanente u ocasional, en inmueble determinado, con establecimientos de comercio o sin ellos.   Artículo 32 Decreto 352 de 2002.
+              p.mb-4.text-medium #[strong Base gravable: ]  ingresos netos del contribuyente.
+              p.mb-4.text-medium #[strong Tarifa:] depende de la actividad económica que ejerza la persona natural o jurídica.
+              
+
+          .row(numero="2" titulo="Impuesto predial unificado")
+            .col-md-12.mb-4.mb-md-0
+              p.text-medium Es un impuesto de naturaleza directa que grava los bienes inmuebles y debe ser cancelado de forma anual teniendo en cuenta la actualización del avalúo catastral realizado por la Unidad Administrativa Especial de Catastro Distrital (UAECD), a dicho valor se aplica la tarifa vigente correspondiente al predio, estos pueden ser casas, lotes, apartamentos, etc.
 
 
 
+          .row(numero="3" titulo="Impuesto de vehículos")
+            .col-md-12.mb-4.mb-md-0
+              p.text-medium El impuesto de vehículos recae sobre la posesión de automotores, su naturaleza es directa, teniendo en cuenta que grava directamente al que tiene la propiedad. Se cancela de forma anual, teniendo en cuenta el avalúo que se establece de acuerdo con el modelo, capacidad, marca, línea por resolución del Ministerio de Transporte para cada año (Secretaría Distrital de Hacienda, 2020, 20 de octubre).
+          .row(numero="4" titulo="Impuesto unificado de fondo de pobres, azar y espectáculos públicos")
+            .col-md-12.mb-4.mb-md-0
+              p.mb-4.text-medium Es un tributo de carácter distrital, mediante el cual se unificaron en un solo impuesto los tributos de azar y espectáculos y el de fondo de pobres.
+              p.mb-4.text-medium El hecho generador de este impuesto está constituido por la realización de uno de los siguientes eventos:
+              .h5.mb-4 Espectáculos públicos
+              ul.lista-ul.ms-5
+                li 
+                  i.far.fa-folder-open(style='color:#A66D58;')
+                  p.mb-0 Apuestas sobre toda clase de juegos permitidos.
+                li 
+                  i.far.fa-folder-open(style='color:#A66D58;')
+                  p.mb-0 Rifas promocionales.
+                li 
+                  i.far.fa-folder-open(style='color:#A66D58;')
+                  p.mb-0 Concursos y similares.
+                li 
+                  i.far.fa-folder-open(style='color:#A66D58;')
+                  p.mb-0 Ventas por el sistema de clubes.
+                li 
+                  i.far.fa-folder-open(style='color:#A66D58;')
+                  p.mb-0 La venta de entradas a: teatros, conciertos, cines, plaza de toros, hipódromos, circos y demás espectáculos públicos.
+          
+          .row(numero="5" titulo="Impuesto de delineación urbana")
+            .col-md-12.mb-4.mb-md-0
+              p.text-medium Es un impuesto distrital que recae sobre la ejecución de obras o construcciones con licencia de construcción o reconocimiento. Es aplicable a construcciones nuevas y/o remodelaciones.
+          .row(numero="6" titulo="Sobretasa a la gasolina motor y al ACPM ")
+            .col-md-12.mb-4.mb-md-0
+              p.mb-4.text-medium Es un tributo que se declara y paga por el consumo de gasolina motor extra o corriente nacional o importada y/o ACPM nacional o importado, en el Distrito Capital de Bogotá. No genera sobretasa las exportaciones de gasolina motor extra y corriente o de ACPM.
+              p.mb-4.text-medium La sobretasa se causa en el momento en que el distribuidor mayorista, productor o importador enajena la gasolina motor extra o corriente o ACPM, al distribuidor minorista o al consumidor final. (Secretaría Distrital de Hacienda, 2020, 20 de octubre).
+          
+            
 
+        
 
 
 </template>
