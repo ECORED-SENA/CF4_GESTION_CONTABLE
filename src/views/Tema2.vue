@@ -118,7 +118,7 @@
         .row.justify-content-center.p-3.mb-2(style="")
           .col-auto
             figure.mb-1
-              img(src='@/assets/curso/tema2/img7.svg', alt='AvatarTop', style="width:190px").mx-auto
+              img(src='@/assets/curso/tema2/img7.png', alt='AvatarTop', style="width:190px").mx-auto
           .col-lg-9.align-self-center
             p.mb-0 1. Que se trate de una persona natural que desarrolle una empresa o de una persona jurídica en la que sus socios, partícipes o accionistas sean personas naturales, nacionales o extranjeras, residentes en Colombia.
         
@@ -132,14 +132,14 @@
         .row.justify-content-center.p-3.mb-2(style="")
           .col-auto
             figure.mb-1
-              img(src='@/assets/curso/tema2/img9.svg', alt='AvatarTop', style="width:190px").mx-auto
+              img(src='@/assets/curso/tema2/img9-10.png', alt='AvatarTop', style="width:190px").mx-auto
           .col-lg-9.align-self-center
             p.mb-0 3. Si uno de los socios persona natural tiene una o varias empresas o participa en una o varias sociedades, inscritas en el impuesto unificado bajo el régimen simple de tributación - SIMPLE, los límites máximos de ingresos brutos se revisarán de forma consolidada y en la proporción a su participación en dichas empresas o sociedades.
         
         .row.justify-content-center.p-3.mb-2(style="")
           .col-auto
             figure.mb-1
-              img(src='@/assets/curso/tema2/img10.svg', alt='AvatarTop', style="width:190px").mx-auto
+              img(src='@/assets/curso/tema2/img9-10.png', alt='AvatarTop', style="width:190px").mx-auto
           .col-lg-9.align-self-center
             p.mb-0 4. Si uno de los socios persona natural tiene una participación superior al 10% en una o varias sociedades no inscritas en el impuesto unificado bajo el régimen simple de tributación - SIMPLE, los límites máximos de ingresos brutos se revisarán de forma consolidada y en la proporción a su participación en dichas sociedades.
         

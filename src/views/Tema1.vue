@@ -104,7 +104,7 @@
     .h3.mb-4 Directos e indirectos
     p.mb-4 Recordemos que existe la clasificación de impuesto directos e indirectos, que se encuentra relacionado con la capacidad de tributación y de progresividad en la tributación.
 
-    .row
+    .row.mb-5
       .col-lg-6(style='background-color:#5E6178;')
         .row.justify-content-center
           .col-lg-10.p-5
@@ -274,7 +274,7 @@
               p.mb-0 Los responsables del impuesto sobre las ventas (IVA) cuando adquieran bienes corporales muebles o servicios gravados, de personas que se encuentren registradas como contribuyentes del impuesto unificado bajo el Régimen Simple de Tributación -SIMPLE.
       .col-lg-5
         figure.mb-2
-          img(src='@/assets/curso/tema1/img8.svg', alt='imagen que acompaña listado de requisitos', style="width:400px;").mx-auto
+          img(src='@/assets/curso/tema1/img8.png', alt='imagen que acompaña listado de requisitos', style="width:400px;").mx-auto
         figure
           img(src='@/assets/curso/tema1/img9.svg', alt='imagen que acompaña listado de requisitos', style="width:400px;").mx-auto
 
