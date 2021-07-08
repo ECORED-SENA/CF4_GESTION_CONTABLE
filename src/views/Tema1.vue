@@ -13,7 +13,7 @@
         <iframe width="990" height="557" src="https://www.youtube.com/embed/W77yAfMoeG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
     #t_1_1.titulo-segundo
-      .h2 1.1 Conceptos y elementos de los Impuestos:
+      .h2 1.1 Conceptos y elementos de los Impuestos
 
     p.mb-5 Con el fin de generar un aprendizaje significativo y avanzar en tan importante tema, a continuación, se relacionan los conceptos de los tributos en Colombia, que constituyen los ingresos corrientes de la nación. Así mismo, se analizan los elementos de los impuestos:
     .row(style='justify-content: space-between;').mb-5
@@ -60,7 +60,7 @@
               figure.mb-4
                 img(src='@/assets/curso/tema1/icon2.svg', alt='Texto que describa la imagen', style="width:86px;").mx-auto
 
-          h4.mb-4.text-center Sujeto Pasivo 
+          h4.mb-4.text-center Sujeto pasivo 
           p.text-medium.text-center(style="margin-bottom:60px;") Es el deudor de la obligación tributaria, pueden ser personas naturales o jurídicas que cumplen con los requisitos exigidos por la norma para declarar determinado impuesto.
 
       .col-sm-6.col-lg-4.mb-4.mb-lg-0
@@ -130,7 +130,7 @@
       .col-lg-6(style='background-color:#F2E9E4;')
         .row.justify-content-center
           .col-lg-10.p-5
-            .h4.mb-4 Impuestos Indirectos
+            .h4.mb-4 Impuestos indirectos
             p.mb-4 Recae   sobre   las operaciones gravadas a lo largo del ciclo económico, en forma no acumulada y con la metodología del valor agregado. Son aquellos, cuya responsabilidad jurídica es diferente a la persona que económicamente asume el impuesto.
             p.mb-4 Ejemplos de Martínez et al. (2016):
             ul.lista-ul
@@ -309,10 +309,10 @@
               img(src='@/assets/curso/tema1/img12.svg', alt='categoria de impuesto a las ventas', style="width:400px").mx-auto
           .col-lg-7
             .h3.mb-4 Categoría del impuesto a las ventas
-            p.mb-4 #[strong IVA Generado:] es el impuesto cobrado por el vendedor en el momento de realizar una venta de un bien o servicio gravado.
-            p.mb-4 #[strong IVA Descontable:] es el impuesto pagado o causado por el comprador en el momento de realizar una compra de un bien o servicio gravado.
+            p.mb-4 #[strong IVA generado:] es el impuesto cobrado por el vendedor en el momento de realizar una venta de un bien o servicio gravado.
+            p.mb-4 #[strong IVA descontable:] es el impuesto pagado o causado por el comprador en el momento de realizar una compra de un bien o servicio gravado.
 
-    .h3.mb-5 Impuestos de renta
+    .h3.mb-5 Impuesto de renta
 
     .row.justify-content-center.mb-5
       .col-lg-7
@@ -322,7 +322,7 @@
             span.text-regular El impuesto de renta es un impuesto directo, que recae sobre los contribuyentes individualmente considerados y grava a quienes en la ley están previstos como sujetos pasivos que hayan percibido ingresos, hecho generador de la obligación sustancial del impuesto, susceptible de producir un incremento neto en el patrimonio.
             i.fas.fa-quote-right
             p.text-end.mb-0
-              b - (Serrano, 2019)
+              b  (Serrano, 2019)
       .col-lg-5.align-self-center
         figure
           img(src='@/assets/curso/tema1/img13.svg', alt='impuesto de renta', style="width:400px").mx-auto
@@ -541,7 +541,7 @@
     .row.justify-content-center
       .col-lg-10
         LineaTiempoD.color-secundario
-          .row(numero="1" titulo="Impuesto de Industria y Comercio")
+          .row(numero="1" titulo="Impuesto de industria y comercio")
             .col-md-12.mb-4.mb-md-0
               p.mb-4.text-medium El impuesto de Industria y Comercio se genera por el ejercicio o realización directa o indirecta de cualquier actividad industrial, comercial o de servicios en jurisdicción del Distrito Capital de Bogotá, ya sea que se cumplan de forma permanente u ocasional, en inmueble determinado, con establecimiento de comercio o sin ellos.
               p.mb-4.text-medium #[strong Sujeto activo:] es un impuesto administrado por el municipio o distrito.

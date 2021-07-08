@@ -1,7 +1,6 @@
 export default {
   global: {
-    componenteFormativo:
-      'Obligaciones tributarias, territoriales y nacionales.',
+    componenteFormativo: 'Obligaciones tributarias, territoriales y nacionales',
     descripcionCurso:
       'En este componente formativo tendrá la oportunidad de abordar las generalidades acerca de los impuestos, su estructura, clasificación, tipos de contribuyentes e importancia que tiene para el sostenimiento del Estado. Los impuestos se dividen de acuerdo con su estructura tributaria en nacionales, municipales y departamentales y según las necesidades del Estado, para ello tendrá la oportunidad de comprender su organización, clasificación y las normas establecidas y vigentes, como un ejercicio fundamental para el proceso de formación.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
@@ -30,13 +29,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Conceptos y elementos de los Impuestos:',
+            titulo: 'Conceptos y elementos de los Impuestos',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Estructura y clasificación de los impuestos:',
+            titulo: 'Estructura y clasificación de los impuestos',
             hash: 't_1_2',
           },
         ],
@@ -47,6 +46,26 @@ export default {
         numero: '2',
         titulo: 'Regímenes',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo: 'De acuerdo a normativa',
+            hash: 't_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo: 'Contribuyente y declarante',
+            hash: 't_2_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.3',
+            titulo: 'Responsabilidades',
+            hash: 't_2_3',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -91,17 +110,17 @@ export default {
     },
     {
       referencia:
-        'CCB. (s.f.). Cámara de Comercio de Bogotá .Recuperado de Cámara de Comercio de Bogotá',
+        'CCB. (s.f.). Cámara de Comercio de Bogotá. Recuperado de Cámara de Comercio de Bogotá',
       link: 'https://www.ccb.org.co/',
     },
     {
       referencia:
         'CTCP. (2018). Consejo Técnico de la Contaduría Pública. Obtenido de Consejo Técnico de la Contaduría Pública',
-      link: 'http://www.ctcp.gov.co/',
+      link: 'https://www.ctcp.gov.co/',
     },
     {
       referencia:
-        'Digital, G. (s.f.). Secretaria Distrital de Hacienda . Obtenido de Secretaria Distrital de Hacienda',
+        'Digital, G. (s.f.). Secretaria Distrital de Hacienda. Obtenido de Secretaria Distrital de Hacienda',
       link: 'https://www.shd.gov.co/shd/contribuyentes',
     },
     {
@@ -131,7 +150,7 @@ export default {
     },
     {
       referencia:
-        'INCP. (2018). Instituto Nacional de Contadores Públicos Colombia . Obtenido de Instituto Nacional de Contadores Públicos Colombia',
+        'INCP. (2018). Instituto Nacional de Contadores Públicos Colombia. Obtenido de Instituto Nacional de Contadores Públicos Colombia',
       link: 'https://www.incp.org.co/',
     },
     {
@@ -147,7 +166,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Comercio, I. y. (s.f.). MinComercio . Obtenido de MinComercio',
+        'Ministerio de Comercio, I. y. (s.f.). MinComercio. Obtenido de MinComercio',
       link: 'https://www.mincit.gov.co/',
     },
     {
@@ -156,7 +175,7 @@ export default {
     },
     {
       referencia:
-        'Murcia , D. (10 de Noviembre de 2011). Impuestos en Colombia . Obtenido de Impuestos en Colombia',
+        'Murcia , D. (10 de Noviembre de 2011). Impuestos en Colombia. Obtenido de Impuestos en Colombia',
       link:
         'http://inpuestos-geografia.blogspot.com/2011/11/impuesto-el-impuesto-es-una-clase-de.html',
     },
@@ -213,6 +232,11 @@ export default {
     },
     {
       termino: 'Impuesto sobre las ventas',
+      significado:
+        'Es un impuesto sobre el gasto o consumo generalmente de tipo masivo del orden nacional, de naturaleza indirecta, real, de causación instantánea, y de régimen general, que recae bajo la modalidad de valor agregado, es decir se aplica en las diferentes etapas del ciclo económico de producción, comercialización importación.',
+    },
+    {
+      termino: 'Impuesto de renta y complementarios',
       significado:
         'El impuesto de renta es un impuesto directo, que recae sobre los contribuyentes individualmente considerados y grava a quienes en la ley están previstos como sujetos pasivos que hayan percibido ingresos, hecho generador de la obligación sustancial del impuesto, susceptible de producir un incremento neto en el patrimonio.',
     },
@@ -276,24 +300,24 @@ export default {
       {
         nombre: 'Patricia Mantilla Galvis',
         cargo: 'Instructor',
-        centro: 'Centro de servicios Financieros',
+        centro: 'Centro de servicios Financieros Regional Distrito Capital',
       },
       {
         nombre: 'Maryury Agudelo Franco',
         cargo: 'Diseñador Instruccional',
-        centro: 'Distrito Capital',
+        centro: 'Centro de Diseño y Metrología Distrito Capital',
       },
       {
         nombre: 'Bertha Paola Bejarano Avila',
         cargo: 'Evaluador Instruccional',
         centro:
-          'Distrito Capital  Centro para La Industria de la Comunicación Gráfica',
+          'Centro para la Industria de la Comunicación Gráfica Distrito Capital',
       },
       {
         nombre: 'Julieth Paola Vital ',
         cargo: 'Correctora de estilo',
         centro:
-          'Distrito Capital Centro para La Industria de la Comunicación Gráfica',
+          'Centro para la Industria de la Comunicación Gráfica Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -350,7 +374,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'nombre',
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

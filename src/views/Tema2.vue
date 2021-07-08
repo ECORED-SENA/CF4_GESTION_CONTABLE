@@ -111,7 +111,7 @@
           h4.mb-0.text-center Art. 905. Sujetos pasivos – Estatuto Tributario (ET).
         .col-lg-10
           .bloque-texto-a__texto.p-4
-            p Nota 1. Podrán ser sujetos pasivos del impuesto unificado bajo el régimen simple de tributación - SIMPLE las personas naturales o jurídicas que reúnan la totalidad de las siguientes condiciones:
+            p Nota. Podrán ser sujetos pasivos del impuesto unificado bajo el régimen simple de tributación - SIMPLE las personas naturales o jurídicas que reúnan la totalidad de las siguientes condiciones:
     
     .row.mb-5.justify-content-center
       .col-lg-9
@@ -165,7 +165,7 @@
               img(src='@/assets/curso/tema2/img13.svg', alt='No contribuyentes', style="width:400px").mx-auto
           .col-lg-8
             .h3.mb-4 No contribuyentes
-            .h4.mb-4.span--acento1 De acuerdo con el artículo 22 del Estatuto Tributario (ET) se encuentran
+            .h4.mb-4.span--acento1 De acuerdo con el artículo 22 del Estatuto Tributario (ET) se encuentran:
             ul.lista-ul
               li 
                 i.far.fa-folder-open(style='color:#A66D58;')
@@ -196,7 +196,7 @@
       
     .col-lg-6.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido.mb-2
-        span Tabla 1 Responsabilidades tributarias
+        span Responsabilidades tributarias
       .tabla-b.color-acento-contenido.mb-5
         table
               caption.my-0 Tomado de: Legis (2019, 16 de abril).
@@ -276,6 +276,9 @@
                 tr
                   th 26 
                   td Declaración individual precios de transferencia.
+                tr
+                  th 32
+                  td Impuesto nacional a la gasolina y al ACPM.
                 tr
                   th 33 
                   td Impuesto nacional al consumo.
