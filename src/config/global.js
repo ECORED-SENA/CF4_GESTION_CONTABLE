@@ -50,7 +50,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'De acuerdo a normativa',
+            titulo: 'De acuerdo con normativa',
             hash: 't_2_1',
           },
           {

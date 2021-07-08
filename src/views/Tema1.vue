@@ -13,7 +13,7 @@
         <iframe width="990" height="557" src="https://www.youtube.com/embed/W77yAfMoeG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
     #t_1_1.titulo-segundo
-      .h2 1.1 Conceptos y elementos de los Impuestos
+      .h2 1.1 Conceptos y elementos de los impuestos
 
     p.mb-5 Con el fin de generar un aprendizaje significativo y avanzar en tan importante tema, a continuación, se relacionan los conceptos de los tributos en Colombia, que constituyen los ingresos corrientes de la nación. Así mismo, se analizan los elementos de los impuestos:
     .row(style='justify-content: space-between;').mb-5
