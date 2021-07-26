@@ -262,7 +262,7 @@ export default {
     {
       termino: 'Sujeto pasivo',
       significado:
-        'Es aquél a quien se le atribuye la realización del hecho impositivo de la obligación tributaria.',
+        'Es aquel a quien se le atribuye la realización del hecho impositivo de la obligación tributaria.',
     },
     {
       termino: 'Tarifa',

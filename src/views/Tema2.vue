@@ -127,7 +127,7 @@
             figure.mb-1
               img(src='@/assets/curso/tema2/img8.svg', alt='AvatarTop', style="width:190px").mx-auto
           .col-lg-9.align-self-center
-            p.mb-0 2. Que en el año gravable anterior hubieren obtenido ingresos brutos, ordinarios o extraordinarios, inferiores a 80.000 UVT. En el caso de las empresas o personas<br> jurídicas nuevas, la inscripción en el impuesto unificado bajo el régimen simple de tributación – SIMPLE, estará́ condicionada a que los ingresos del año no superen estos límites.
+            p.mb-0 2. Que en el año gravable anterior hubieren obtenido ingresos brutos, ordinarios o extraordinarios, inferiores a 80.000 UVT. En el caso de las empresas o personas jurídicas nuevas, la inscripción en el impuesto unificado bajo el régimen simple de tributación – SIMPLE, estará́ condicionada a que los ingresos del año no superen estos límites.
         
         .row.justify-content-center.p-3.mb-2(style="")
           .col-auto
@@ -141,7 +141,7 @@
             figure.mb-1
               img(src='@/assets/curso/tema2/img9-10.png', alt='AvatarTop', style="width:190px").mx-auto
           .col-lg-9.align-self-center
-            p.mb-0 4. Si uno de los socios persona natural tiene una participación superior al 10% en una o varias sociedades no inscritas en el impuesto unificado bajo el régimen simple de tributación - SIMPLE, los límites máximos de ingresos brutos se revisarán de forma consolidada y en la proporción a su participación en dichas sociedades.
+            p.mb-0 4. Si uno de los socios persona natural tiene una participación superior al 10 % en una o varias sociedades no inscritas en el impuesto unificado bajo el régimen simple de tributación - SIMPLE, los límites máximos de ingresos brutos se revisarán de forma consolidada y en la proporción a su participación en dichas sociedades.
         
         .row.justify-content-center.p-3.mb-2(style="")
           .col-auto
